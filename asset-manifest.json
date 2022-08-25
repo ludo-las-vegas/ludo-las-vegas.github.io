@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.72efa7d9.chunk.css",
+    "main.css": "/static/css/main.7a20ff4b.chunk.css",
     "main.js": "/static/js/main.2766c4a5.chunk.js",
     "main.js.map": "/static/js/main.2766c4a5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5d2bcaa6.js",
@@ -8,17 +8,17 @@
     "static/js/2.58d0e7fb.chunk.js": "/static/js/2.58d0e7fb.chunk.js",
     "static/js/2.58d0e7fb.chunk.js.map": "/static/js/2.58d0e7fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.10b78e938df5867da1e48cc2ab43f7b4.js": "/precache-manifest.10b78e938df5867da1e48cc2ab43f7b4.js",
+    "precache-manifest.a76f51523f6a844a1cdbf6f77d870ecb.js": "/precache-manifest.a76f51523f6a844a1cdbf6f77d870ecb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.72efa7d9.chunk.css.map": "/static/css/main.72efa7d9.chunk.css.map",
+    "static/css/main.7a20ff4b.chunk.css.map": "/static/css/main.7a20ff4b.chunk.css.map",
     "static/js/2.58d0e7fb.chunk.js.LICENSE.txt": "/static/js/2.58d0e7fb.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/static/media/logo.f565cc2d.png",
-    "static/media/Container.module.css": "/static/media/pattern.d2a5b534.jpg"
+    "static/media/Container.module.css": "/static/media/ludo_banner.cf5cecee.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d2bcaa6.js",
     "static/js/2.58d0e7fb.chunk.js",
-    "static/css/main.72efa7d9.chunk.css",
+    "static/css/main.7a20ff4b.chunk.css",
     "static/js/main.2766c4a5.chunk.js"
   ]
 }

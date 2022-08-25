@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ad7cbbab13d49596009d481b7d6699c",
+    "revision": "66c689ed9da483c69d627e2a641f29b0",
     "url": "/index.html"
   },
   {
-    "revision": "a44b4b59fa8928915ac4",
-    "url": "/static/css/main.72efa7d9.chunk.css"
+    "revision": "11ad8a4c28faa328566d",
+    "url": "/static/css/main.7a20ff4b.chunk.css"
   },
   {
     "revision": "967b5fe61e4a214c0af4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.58d0e7fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a44b4b59fa8928915ac4",
+    "revision": "11ad8a4c28faa328566d",
     "url": "/static/js/main.2766c4a5.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.f565cc2d.png"
   },
   {
-    "revision": "d2a5b53409e1db3c0c183dbd46531511",
-    "url": "/static/media/pattern.d2a5b534.jpg"
+    "revision": "cf5ceceeb8e2405d95ff6b5c602fa8ab",
+    "url": "/static/media/ludo_banner.cf5cecee.jpg"
   }
 ]);
